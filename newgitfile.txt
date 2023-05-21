@@ -1,0 +1,3 @@
+file in github, for diff function
+
+changing file to check new command

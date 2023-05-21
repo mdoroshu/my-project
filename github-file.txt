@@ -2,3 +2,4 @@ my git-hub file was created on directly on GITHUB
 changes in the file from local repo
 want to create conflict situation. Local
 new experiment
+conflict experiment from github
