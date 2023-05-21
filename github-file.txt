@@ -2,3 +2,5 @@ my git-hub file was created on directly on GITHUB
 conflict experiment from github
 
 changes in the file from local repo
+
+want to create conflict situation. Local
